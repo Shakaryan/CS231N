@@ -24,7 +24,7 @@ Here you can see my solutions for course tasks **CS231n** from Stanford Universi
 - [Q2](https://github.com/Shakaryan/CS231n/blob/master/assignment2/BatchNormalization.ipynb): Batch Normalization. (_Done_)
 - [Q3](https://github.com/Shakaryan/CS231n/blob/master/assignment2/Dropout.ipynb): Dropout. (_Done_)
 - [Q4](https://github.com/Shakaryan/CS231n/blob/master/assignment2/ConvolutionalNetworks.ipynb): Convolutional Networks. (_Done_)
-- [Q5](https://github.com/Shakaryan/CS231n/blob/master/assignment2/TensorFlow.ipynb): PyTorch / TensorFlow on CIFAR-10. (_Done_)
+- [Q5](https://github.com/Shakaryan/CS231n/blob/main/assignment2/ConvolutionalNetworks.ipynb): PyTorch / TensorFlow on CIFAR-10. (_Done_)
 
 ### Assignment 3:
 - [Q1](https://github.com/Shakaryan/CS231n/blob/master/assignment3/RNN_Captioning.ipynb): Image Captioning with Vanilla RNNs. (_Done_)
